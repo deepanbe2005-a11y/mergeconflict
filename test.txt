@@ -1,5 +1,5 @@
-city none
-village mass
 
+city mass
+village waste
 
 
